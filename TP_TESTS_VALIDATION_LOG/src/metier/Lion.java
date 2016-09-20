@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Lion extends Animal {
 
-	Lion()
+	public Lion()
 	{
 		cri = "warg"; 
 	}		
