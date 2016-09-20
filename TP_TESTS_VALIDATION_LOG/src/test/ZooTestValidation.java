@@ -41,10 +41,10 @@ Zoo zooNoMock = new Zoo();
 		assertEquals(mockArrayListAnimal,zoo.getAnimauxByCri("warg"));
 }
 
-	@Test
-		Lion lion = new Lion();
-		zooNoMock.AddAnimal(lion);
-}
+//	@Test
+//		Lion lion = new Lion();
+//		zooNoMock.AddAnimal(lion);
+//}
 
 	@Test
 	public void testGetAnimal() {
